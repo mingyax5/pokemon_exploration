@@ -1,0 +1,2 @@
+## The relationship and prediction between Pokemon's stats and generation
+From other's project in the past quarter, I found that there were some analysis about Pokemon, which was one of my favorite games, so I chose to explore more about this dataset. The main topic I choose is to find the relationship between the generations and the each stats for pokemons, and study whether the strength of Pokemon has become stronger through generations. In addition, I will try to predict the trend on designing new generation pokemon, such as their type and stats.
